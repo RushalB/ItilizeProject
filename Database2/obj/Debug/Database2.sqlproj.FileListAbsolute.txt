@@ -1,0 +1,10 @@
+C:\Users\nikil\source\repos\Database2\bin\Debug\Database2.dacpac
+C:\Users\nikil\source\repos\Database2\bin\Debug\Database2.dll
+C:\Users\nikil\source\repos\Database2\bin\Debug\Database2.pdb
+C:\Users\nikil\source\repos\Database2\obj\Debug\Database2.sqlproj.AssemblyReference.cache
+C:\Users\nikil\source\repos\Database2\obj\Debug\Model.xml
+C:\Users\nikil\source\repos\Database2\obj\Debug\refactor.xml
+C:\Users\nikil\source\repos\Database2\obj\Debug\postdeploy.sql
+C:\Users\nikil\source\repos\Database2\obj\Debug\predeploy.sql
+C:\Users\nikil\source\repos\Database2\obj\Debug\Database2.dll
+C:\Users\nikil\source\repos\Database2\obj\Debug\Database2.pdb
